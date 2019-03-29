@@ -3,6 +3,7 @@
 <h5>viva-jadi - Draw a lovely heart 4 dear Jadi</h5>
 <a target="_blank" href="https://github.com/jadijadi">Jadi(Amir Mirmirani)</a> is a great geek who believe in freedom and <a target="_blank" href="https://en.wikipedia.org/wiki/Human_rights">human rights</a> just like his <a target="_blank" href="https://ardeshirv.github.io/CyrusTheGreat/">ancestor</a> and he is a <a target="_blank" href="https://www.gnu.org/philosophy/free-sw.en.html">free software</a> activist in Iran who shares all his knowledge with people by his <a target="_blank" href="https://jadi.net/">blog</a> and his incredible <a target="_blank" href="https://jadi.net/tag/podcast/">podcast</a> and <a target="_blank" href="https://jadi.net/tag/videocast/">videocast</a>
 I praise his approache to help people in our comunity to make a better society and I developed this project as a little gift for dear <a target="_blank" href="https://github.com/jadijadi">Jadi</a>
+<br/>
 If you also praise his great works; So you can stop wasting time and <a target="_blank" href="http://jadi.ir/support-donate/">support/donate Jadi</a> now
 <br/>
 <h3>Code Description</h3>
