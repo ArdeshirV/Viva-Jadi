@@ -21,7 +21,7 @@ I just replaced the dangrous 'exec' with a safe 'print' then you can see the hid
 <pre>
 print('\n'.join([''.join(['\033[1;31m'+('JadiLove'[(x-y)%8]if((x*0.05)**2+(y*0.1)**2-1)**3-(x*0.05)**2*(y*0.1)**3<=0 else'\033[0m ')for x in range(-30,30)])for y in range(15,-15,-1)]))
 </pre>
-You can see that is clearly a safe code then you can run it yourself and this is output:
+You can see that is a clearly safe code then you can run it yourself and this is output:
 <img alt="Safe code output" src="https://raw.githubusercontent.com/ArdeshirV/Viva-Jadi/master/img/dear-jadi.png">
 Now you are sure that the first line of code was safe and you can run it without any problem
 <pre>
