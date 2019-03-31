@@ -23,7 +23,7 @@ print('\n'.join([''.join(['\033[1;31m'+('JadiLove'[(x-y)%8]if((x*0.05)**2+(y*0.1
 </pre>
 You can see that is a clearly safe code then you can run it yourself and this is output:
 <img alt="Safe code output" src="https://raw.githubusercontent.com/ArdeshirV/Viva-Jadi/master/img/dear-jadi.png">
-Now you are sure that the first line of code was safe and you can run it without any problem
+Now you are sure that the first line of code was safe and you can run it without any problem with same result just like above
 <pre>
 python -c "import base64; exec(base64.b64decode(b'cHJpbnQoJ1xuJy5qb2luKFsnJy5qb2luKFsnXDAzM1sxOzMxbScrKCdKYWRpTG92ZSdbKHgteSklOF1pZigoeCowLjA1KSoqMisoeSowLjEpKioyLTEpKiozLSh4KjAuMDUpKioyKih5KjAuMSkqKjM8PTAgZWxzZSdcMDMzWzBtICcpZm9yIHggaW4gcmFuZ2UoLTMwLDMwKV0pZm9yIHkgaW4gcmFuZ2UoMTUsLTE1LC0xKV0pKQ=='))"
 </pre>
