@@ -2,7 +2,7 @@
 <h3>Philosophy</h3>
 <h5>viva-jadi - Draw a lovely heart 4 dear Jadi</h5>
 <a target="_blank" href="https://github.com/jadijadi">Jadi(Amir Emaad Mirmirani)</a> is a great developer and geek who believe in freedom and <a target="_blank" href="https://en.wikipedia.org/wiki/Human_rights">human rights</a> just like his <a target="_blank" href="https://ardeshirv.github.io/CyrusTheGreat/">ancestor</a> and he is a <a target="_blank" href="https://www.gnu.org/philosophy/free-sw.en.html">free software</a> activist in Iran who shares all his knowledge with people by his <a target="_blank" href="https://jadi.net/">blog</a> and his incredible <a target="_blank" href="https://jadi.net/tag/podcast/">podcast</a> and <a target="_blank" href="https://jadi.net/tag/videocast/">videocast</a>
-I praise his approache to help people in our comunity to make a better society and I developed this project as a little gift for dear <a target="_blank" href="https://github.com/jadijadi">Jadi</a>
+I praise his approache to help people in our community to make a better society and I developed this project as a little gift for dear <a target="_blank" href="https://github.com/jadijadi">Jadi</a>
 <br/><br/>
 If you also praise his great works 4 people then you should stop wasting time now and <a target="_blank" href="http://jadi.ir/support-donate/">support/donate Jadi</a>
 <br/>
