@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 #  viva-jadi.py - Draw a lovely heart 4 dear Jadi, Version 1.0
-#  Copyright (c) 2019 ardeshirv@protonmail.com, Licensed under GPLv3+
+#  Copyright (c) 2019 ArdeshirV@protonmail.com, Licensed under GPLv3+
 import base64
 
 
