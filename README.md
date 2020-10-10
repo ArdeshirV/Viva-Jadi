@@ -28,4 +28,4 @@ Now you are sure that the first line of code was safe and you can run it without
 python -c "import base64; exec(base64.b64decode(b'cHJpbnQoJ1xuJy5qb2luKFsnJy5qb2luKFsnXDAzM1sxOzMxbScrKCdKYWRpTG92ZSdbKHgteSklOF1pZigoeCowLjA1KSoqMisoeSowLjEpKioyLTEpKiozLSh4KjAuMDUpKioyKih5KjAuMSkqKjM8PTAgZWxzZSdcMDMzWzBtICcpZm9yIHggaW4gcmFuZ2UoLTMwLDMwKV0pZm9yIHkgaW4gcmFuZ2UoMTUsLTE1LC0xKV0pKQ=='))"
 </pre>
 <br/>
-Copyright&copy; 2019 <a href="mailto:ardeshirv@protonmail.com" target="_blank">ardeshirv@protonmail.com</a> Licensed under GPL<sup>v3+</sup>
+Copyright&copy; 2019 <a href="mailto:ardeshirv@protonmail.com" target="_blank">ArdeshirV@protonmail.com</a> Licensed under GPL<sup>v3+</sup>
